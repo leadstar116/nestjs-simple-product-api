@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { Currency, ConversionRate } from './Currency.interface';
+import { Currency, ConversionRate } from './currency.interface';
 import { currencies } from '../../db/database';
 import fetch = require('node-fetch');
 import { error } from 'console';

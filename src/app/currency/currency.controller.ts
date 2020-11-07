@@ -4,7 +4,7 @@ import {
   ApiOperation,
   ApiTags,
 } from '@nestjs/swagger';
-import { CurrencyService } from './Currency.service';
+import { CurrencyService } from './currency.service';
 
 @ApiTags('currencies')
 @Controller()
