@@ -1,5 +1,4 @@
 import { Injectable } from '@nestjs/common';
-import e = require('express');
 import { Product } from './product.interface';
 import { ConversionRate } from '../currency/currency.interface';
 import { products } from '../../db/database';
