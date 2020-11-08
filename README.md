@@ -1,10 +1,7 @@
 NestJS Simple Product API
 
 ## Description
-Implemented the following API in the simplest way with Nest.js. <br/>
-
-Used PostgreSQL for Users and JWL for Authentication. <br/>
-Reset, Balance and Event are not using real database, they using internal memory for just demonstration!
+Implemented the product API in the simplest way with Nest.js. <br/>
 
 ### Live Demo
 https://dry-forest-53601.herokuapp.com/api
